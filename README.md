@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SamirVerma
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning  C language
+- 👀 I’m interested in Web Developing
 - 📫 How to reach me  vermasamir789@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like reading comic books
