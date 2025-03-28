@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 📫 How to reach me  vermasamir789@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like reading comic books
+- ⚡ Fun fact: I like Reading mangas
 
 <!---
 SamirVerma18/SamirVerma18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
